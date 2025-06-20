@@ -1,0 +1,1 @@
+Esta todo listo para funcionar solo descargan las librerias y lo corren tienen una version backend que es puro codigo que corre con un menu muy simple en notebook y tiene otra version mas bonita con interfaz que es la de proyecto final se corre con streamlit y con esto da una interfaz grafica
